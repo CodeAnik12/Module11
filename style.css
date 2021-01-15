@@ -1,0 +1,81 @@
+.header__body{
+    display: flex;
+}
+.card1{
+    background-color: rgb(255, 230, 185);
+    border: 0;
+    height: 50px;
+    width: 350px;
+}
+.card2{
+    background-color:  rgb(255, 230, 185);
+    border: 0;
+}
+.background{
+    background-color:  rgb(255, 230, 185);
+}
+.woman{
+    font-size: 35px;
+}
+.price{
+    color: goldenrod;
+    font-weight: 700;
+}
+.jacket-colour{
+    color:#363958
+}
+.shadow border-quality{
+    color: grey;
+}
+img-colour{
+    color: gray;
+}
+.card-box{
+    box-shadow: lightslategray;
+    background-color: lightgray;
+    height: 300px;
+    border-radius: 10px;
+}
+.card-box{
+    background-color: white;
+    border: 0;
+}
+.button{
+    height: 10px;
+}
+.btn-success{
+    height: 50px;
+}
+.main-box{
+    height: 400px;
+}
+.lust-img{
+    width: 100px;
+    height: 90px;
+    float: left; 
+    padding: 2px;
+}
+.lust-photo{
+    width: 90%;
+}
+..border{
+    border-radius: 8px;
+    font-size: 14px;
+}
+.par-font{
+    font-size: small;
+}
+.half-part{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+
+}
+.half-part img{
+    width: 80%;
+}
+.box-border {
+        background-color: white;
+        border: 0;
+}
